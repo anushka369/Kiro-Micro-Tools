@@ -1,12 +1,12 @@
-# Color Palette Picker
-A "Single Purpose Website" that solves a tiny, annoying problem elegantly: colour picker. A beautiful, distraction-free web application for generating harmonious color palettes.
+# Colour Palette Picker
+A "Single Purpose Website" that solves a tiny, annoying problem elegantly: colour picker. A beautiful, distraction-free web application for generating harmonious colour palettes.
 
 ## Features
 
-- Generate random 5-color palettes using color harmony algorithms
-- Lock individual colors to preserve favorites while generating variations
-- Adjust colors with HSL sliders
-- Copy color values in HEX, RGB, or HSL formats
+- Generate random 5-colour palettes using colour harmony algorithms
+- Lock individual colours to preserve favorites while generating variations
+- Adjust colours with HSL sliders
+- Copy colour values in HEX, RGB, or HSL formats
 - Export palettes as JSON or shareable URLs
 - View WCAG contrast ratios for accessibility
 - Clean, minimal interface that adapts to the current palette
@@ -46,7 +46,7 @@ npm run build
 ```
 src/
 ├── components/     # React components
-├── utils/          # Utility functions (color conversions, harmony algorithms)
+├── utils/          # Utility functions (colour conversions, harmony algorithms)
 ├── hooks/          # Custom React hooks
 └── test/           # Test setup and utilities
 ```
